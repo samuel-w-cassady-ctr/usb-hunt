@@ -119,3 +119,7 @@ VID,Vendor,PID,Product
 "1038","SteelSeries","1729","Rival 110 Gaming Mouse"
 "1038","SteelSeries","184c","ApS Rival 3 Gaming Mouse"
 "1038","SteelSeries","183c","ApS Rival 5 Gaming Mouse"
+"1038","SteelSeries","12aa","Arctis 5 Gaming Headset"
+"0a12","Generic","1243","iHome iBN27(Bluetooth Speaker)"
+"10d6","Generic","4801","G06-BT(Bluetooth Headset)"
+
