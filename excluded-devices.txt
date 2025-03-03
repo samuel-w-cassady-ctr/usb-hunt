@@ -1,1 +1,2 @@
-
+VID,Vendor,PID,Product
+"1bcf","Sunplus Innovation Technology Inc.","08a0","Gaming mouse [Philips SPK9304]"
