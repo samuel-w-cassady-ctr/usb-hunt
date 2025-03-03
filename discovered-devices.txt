@@ -26,6 +26,8 @@ VID,Vendor,PID,Product
 "046d","Logitech","c539","Lightspeed Wireless Receiver"
 "046d","Logitech","c532","Bluetooth Unifying Receiver"
 "046d","Logitech","b305","Bluetooth Mini Receiver"
+"046d","Logitech","c548","Logi Bolt Receiver"
+"046d:,"Logitech","c515","Cordless 2.4 GHz Presenter"
 "1b1c","Corsair","1c1a","Harpoon Wireless Dongle"
 "1b1c","Corsair","1b3d","K55 RGB Gaming Keyboard"
 "1b1c","Corsair","1ba4","K55 RGB Pro Gaming Keyboard"
