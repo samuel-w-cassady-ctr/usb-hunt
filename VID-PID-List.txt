@@ -1,5 +1,4 @@
 ﻿VID,Vendor,PID,Product
-08de,???,7a01,802.11b Adapter
 18f8,[Maxxter],0f97,Optical Gaming Mouse [Xtrem]
 18f8,[Maxxter],0f99,Optical gaming mouse
 18f8,[Maxxter],1142,Optical gaming mouse
