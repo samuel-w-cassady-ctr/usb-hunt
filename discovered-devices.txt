@@ -1,128 +1,128 @@
 VID,Vendor,PID,Product
-"046d","Logitech","c52b","Bluetooth Unifying Receiver"
-"046d","Logitech","c534","Bluetooth Unifying Receiver"
-"046d","Logitech","c539","Lightspeed Wireless Receiver"
-"046d","Logitech","c532","Bluetooth Unifying Receiver"
-"046d","Logitech","b305","Bluetooth Mini Receiver"
-"046d","Logitech","c52e","MK260 Wireless Combo Receiver"
-"046d","Logitech","c52f","Nano Wireless Receiver"
-"046d","Logitech","c542","M185 Wireless Mouse"
-"062a","Mosart","4102","Bluetooth Unifying Receiver"
-"046d","Logitech","c084","G203 Gaming Mouse"
-"046d","Logitech","c336","G213 Prodigy Gaming Keyboard"
-"046d","Logitech","c08b","G502 HERO Gaming Mouse"
-"046d","Logitech","c33a","G413 Gaming Keyboard"
-"046d","Logitech","c332","G502 Proteus Spectrum Gaming Mouse"
-"046d","Logitech","c335","G910 Orion Spectrum Mechanical Keyboard"
-"046d","Logitech","c32b","G910 Orion Spark Mechanical Keyboard"
-"046d","Logitech","c24c","G400s Gaming Mouse"
-"046d","Logitech","c246","G300 Gaming Mouse"
-"046d","Logitech","c092","G102/G203 Lightsync Gaming Mouse"
-"046d","Logitech","c080","G303 Gaming Mouse"
-"046d","Logitech","c247","G100s Gaming Mouse"
-"046d","Logitech","c08e","G MX518 Gaming mouse"
-"046d","Logitech","c52b","Bluetooth Unifying Receiver"
-"046d","Logitech","c534","Bluetooth Unifying Receiver"
-"046d","Logitech","c539","Lightspeed Wireless Receiver"
-"046d","Logitech","c532","Bluetooth Unifying Receiver"
-"046d","Logitech","b305","Bluetooth Mini Receiver"
-"046d","Logitech","c548","Logi Bolt Receiver"
-"046d:,"Logitech","c515","Cordless 2.4 GHz Presenter"
-"1b1c","Corsair","1c1a","Harpoon Wireless Dongle"
-"1b1c","Corsair","1b3d","K55 RGB Gaming Keyboard"
-"1b1c","Corsair","1ba4","K55 RGB Pro Gaming Keyboard"
-"1b1c","Corsair","1b5e","Harpoon Wireless Gaming Mouse"
-"1b1c","Corsair","1b2d","K95 RGB Platinum Gaming Keyboard"
-"1b1c","Corsair","1b2e","M65 Pro RGB Gaming Mouse"
-"1b1c","Corsair","1b1c","M65 Pro RGB Gaming Mouse"
-"1b1c","Corsair","1b3c","Harpoon RGB Gaming Mouse"
-"1b1c","Corsair","1b13","Vengeance K70RGB Gaming Keyboard"
-"1b1c","Corsair","1b20","STRAFE RGB Gaming Keyboard"
-"1b1c","Corsair","1b09","Vengeance K70R Gaming Keyboard"
-"1b1c","Corsair","1b11","K95 RGB Mechanical Gaming Keyboard"
-"1b1c","Corsair","1b49","K70 RGB MK2 Mechanical Gaming Keyboard"
-"1b1c","Corsair","1b8b","Scimitar RGB Elite Gaming Mouse"
-"1b1c","Corsair","1b07","Vengeance K65 Gaming Keyboard"
-"1b1c","Corsair","0a17","VOID Pro USB Gaming Headset"
-"1b1c","Corsair","1b08","Vengeance K95 Gaming Keyboard"
-"1b1c","Corsair","1b04","Raptor K50 Gaming Keyboard"
-"1b1c","Corsair","0a60","Vengeance K60 Gaming Keyboard"
-"1b1c","Corsair","1b74","Glaive RGB Pro Gaming Mouse"
-"1b1c","Corsair","1b3e","Scimitar Pro Gaming Mouse"
-"1532","Razer","0037","DeathAdder 2013 Gaming Mouse"
-"1532","Razer","003e","Naga Epic Chroma Gaming Mouse"
-"1532","Razer","0016","DeathAdder Gaming Mouse"
-"1532","Razer","0043","DeathAdder Chroma Gaming Mouse"
-"1532","Razer","0034","Taipan Ambidextrous Gaming Mouse"
-"1532","Razer","005c","DeathAdder Elite Gaming Mouse"
-"1532","Razer","006c","Mamba Elite Gaming Mouse"
-"1532","Razer","006e","DeathAdder Essential Gaming Mouse"
-"1532","Razer","0073","Mamba Wireless Gaming Mouse"
-"1532","Razer","007b","Viper Ultimate Wireless Gaming Mouse"
-"1532","Razer","0084","DeathAdder V2 Gaming Mouse"
-"1532","Razer","0085","Basilisk V2 Gaming Mouse"
-"1532","Razer","0086","Basilisk Ultimate Wireless Gaming Mouse"
-"1532","Razer","0091","Viper 8KHz Gaming Mouse"
-"1532","Razer","0036","Naga Hex Gaming Mouse"
-"1532","Razer","000d","DiamondBack 3G Gaming Mouse"
-"1532","Razer","00b9","Basilisk V3 X HyperSpeed Gaming Mouse"
-"1532","Razer","0065","Basilisk Essential Gaming Mouse"
-"1532","Razer","0096","Naga X Gaming Mouse"
-"1532","Razer","004d","DeathAdder 2000 Cynosa Pro Gaming Mouse"
-"1532","Razer","0098","DeathAdder Essential Gaming Mouse"
-"1532","Razer","0099","Basilisk V3 Gaming Mouse"
-"1532","Razer","0099","DeathAdder Essential Gaming Mouse"
-"1532","Razer","00B4","Naga V2 HyperSpeed Gaming Mouse"
-"1532","Razer","021e","Ornata Chroma Gaming Keyboard"
-"1532","Razer","022a","Cynosa Chroma Gaming Keyboard"
-"1532","Razer","023f","Cynosa Lite Gaming Keyboard"
-"1532","Razer","024e","BlackWidow V3 Gaming Keyboard"
-"1532","Razer","0257","Huntsman Mini Gaming Keyboard"
-"1532","Razer","025d","Ornata V2 Gaming Keyboard"
-"1532","Razer","025e","Cynosa V2 Gaming Keyboard"
-"1532","Razer","026c","Huntsman V2 Gaming Keyboard"
-"1532","Razer","02a2","Ornata V3 X Gaming Keyboard"
-"1532","Razer","0504","Kraken 7.1 V2 Gaming Headset"
-"1532","Razer","0510","Kraken 7.1V2 Gaming Headset"
-"1532","Razer","0065","USB SoundCard Black SharkV2 Gaming Headset"
-"1532","Razer","00b4","Naga Hyperspeed V2 Gaming Mouse"
-"1532","Razer","011a","BlackWidow Ultimate Gaming Keyboard"
-"1532","Razer","00b2","Deathadder V3 Gaming Keyboard"
-"1532","Razer","0067","Naga Trinity Gaming Mouse"
-"1532","Razer","008a","Viper Mini Gaming Mouse"
-"1532","Razer","0529","USB SoundCard Black SharkV2 Gaming Headset"
-"1532","Razer","005e","Abyssus 2000 Gaming Mouse"
-"1532","Razer","007a","RC30-0305 Gaming Mouse"
-"1532","Razer","00aa","Basilisk V3 Pro Gaming Mouse"
-"1532","Razer","010b","Arctosa Gaming Keyboard"
-"1532","Razer","02a1","Ornata Gaming Keyboard"
-"1532","Razer","0228","USB SoundCard Black SharkV2 Gaming Headset"
-"1532","Razer","122e","Thunderbolt 4 Dock Chroma Gaming Dock"
-"1532","Razer","0f30","Thunderbolt 4 Dock Chroma Gaming Dock"
-"1532","Razer","0f21","Thunderbolt 4 Dock Chroma Gaming Dock"
-"1532","Razer","0f2f","Thunderbolt 4 Dock Chroma Gaming Dock"
-"1532","Razer","0064","Basilisk Gaming Mouse"
-"1532","Razer","002e","RZ01-0058 Gaming Mouse [Naga 2012]"
-"1532","Razer","0202","DeathStalker Expert"
-"1532","Razer","0520","Kraken Tournament Edition"
-"1038","SteelSeries","1282","GameDac Gaming Audio/Headset"
-"1038","SteelSeries","12aa","Arctis 5 RGB Gaming Audio/Headset"
-"1038","SteelSeries","1208","Apex 300 Gaming Keyboard"
-"1038","SteelSeries","1361","Sensei Gaming Mouse"
-"1038","SteelSeries","160e","Apex 100 Gaming Keyboard"
-"1038","SteelSeries","161a","ApS Apex 3 Gaming Mouse"
-"1038","SteelSeries","1622","Apex TKL Gaming Keyboard"
-"1038","SteelSeries","1710","Rival 300 Gaming Mouse"
-"1038","SteelSeries","1720","ApS Gaming Mouse"
-"1038","SteelSeries","1724","Rival 600 Gaming Mouse"
-"1038","SteelSeries","1824","Rival 3 - Wireless Gaming Mouse"
-"1038","SteelSeries","182c","Prime+ Gaming Mouse"
-"1038","SteelSeries","1836","Aerox 3 Wireless Gaming Mouse"
-"1038","SteelSeries","1838","Aerox 3 - Wireless Gaming Mouse"
-"1038","SteelSeries","1729","Rival 110 Gaming Mouse"
-"1038","SteelSeries","184c","ApS Rival 3 Gaming Mouse"
-"1038","SteelSeries","183c","ApS Rival 5 Gaming Mouse"
-"1038","SteelSeries","12aa","Arctis 5 Gaming Headset"
-"0a12","Generic","1243","iHome iBN27(Bluetooth Speaker)"
-"10d6","Generic","4801","G06-BT(Bluetooth Headset)"
+046d,Logitech,c52b,Bluetooth Unifying Receiver
+046d,Logitech,c534,Bluetooth Unifying Receiver
+046d,Logitech,c539,Lightspeed Wireless Receiver
+046d,Logitech,c532,Bluetooth Unifying Receiver
+046d,Logitech,b305,Bluetooth Mini Receiver
+046d,Logitech,c52e,MK260 Wireless Combo Receiver
+046d,Logitech,c52f,Nano Wireless Receiver
+046d,Logitech,c542,M185 Wireless Mouse
+062a,Mosart,4102,Bluetooth Unifying Receiver
+046d,Logitech,c084,G203 Gaming Mouse
+046d,Logitech,c336,G213 Prodigy Gaming Keyboard
+046d,Logitech,c08b,G502 HERO Gaming Mouse
+046d,Logitech,c33a,G413 Gaming Keyboard
+046d,Logitech,c332,G502 Proteus Spectrum Gaming Mouse
+046d,Logitech,c335,G910 Orion Spectrum Mechanical Keyboard
+046d,Logitech,c32b,G910 Orion Spark Mechanical Keyboard
+046d,Logitech,c24c,G400s Gaming Mouse
+046d,Logitech,c246,G300 Gaming Mouse
+046d,Logitech,c092,G102/G203 Lightsync Gaming Mouse
+046d,Logitech,c080,G303 Gaming Mouse
+046d,Logitech,c247,G100s Gaming Mouse
+046d,Logitech,c08e,G MX518 Gaming mouse
+046d,Logitech,c52b,Bluetooth Unifying Receiver
+046d,Logitech,c534,Bluetooth Unifying Receiver
+046d,Logitech,c539,Lightspeed Wireless Receiver
+046d,Logitech,c532,Bluetooth Unifying Receiver
+046d,Logitech,b305,Bluetooth Mini Receiver
+046d,Logitech,c548,Logi Bolt Receiver
+046d:,Logitech,c515,Cordless 2.4 GHz Presenter
+1b1c,Corsair,1c1a,Harpoon Wireless Dongle
+1b1c,Corsair,1b3d,K55 RGB Gaming Keyboard
+1b1c,Corsair,1ba4,K55 RGB Pro Gaming Keyboard
+1b1c,Corsair,1b5e,Harpoon Wireless Gaming Mouse
+1b1c,Corsair,1b2d,K95 RGB Platinum Gaming Keyboard
+1b1c,Corsair,1b2e,M65 Pro RGB Gaming Mouse
+1b1c,Corsair,1b1c,M65 Pro RGB Gaming Mouse
+1b1c,Corsair,1b3c,Harpoon RGB Gaming Mouse
+1b1c,Corsair,1b13,Vengeance K70RGB Gaming Keyboard
+1b1c,Corsair,1b20,STRAFE RGB Gaming Keyboard
+1b1c,Corsair,1b09,Vengeance K70R Gaming Keyboard
+1b1c,Corsair,1b11,K95 RGB Mechanical Gaming Keyboard
+1b1c,Corsair,1b49,K70 RGB MK2 Mechanical Gaming Keyboard
+1b1c,Corsair,1b8b,Scimitar RGB Elite Gaming Mouse
+1b1c,Corsair,1b07,Vengeance K65 Gaming Keyboard
+1b1c,Corsair,0a17,VOID Pro USB Gaming Headset
+1b1c,Corsair,1b08,Vengeance K95 Gaming Keyboard
+1b1c,Corsair,1b04,Raptor K50 Gaming Keyboard
+1b1c,Corsair,0a60,Vengeance K60 Gaming Keyboard
+1b1c,Corsair,1b74,Glaive RGB Pro Gaming Mouse
+1b1c,Corsair,1b3e,Scimitar Pro Gaming Mouse
+1532,Razer,0037,DeathAdder 2013 Gaming Mouse
+1532,Razer,003e,Naga Epic Chroma Gaming Mouse
+1532,Razer,0016,DeathAdder Gaming Mouse
+1532,Razer,0043,DeathAdder Chroma Gaming Mouse
+1532,Razer,0034,Taipan Ambidextrous Gaming Mouse
+1532,Razer,005c,DeathAdder Elite Gaming Mouse
+1532,Razer,006c,Mamba Elite Gaming Mouse
+1532,Razer,006e,DeathAdder Essential Gaming Mouse
+1532,Razer,0073,Mamba Wireless Gaming Mouse
+1532,Razer,007b,Viper Ultimate Wireless Gaming Mouse
+1532,Razer,0084,DeathAdder V2 Gaming Mouse
+1532,Razer,0085,Basilisk V2 Gaming Mouse
+1532,Razer,0086,Basilisk Ultimate Wireless Gaming Mouse
+1532,Razer,0091,Viper 8KHz Gaming Mouse
+1532,Razer,0036,Naga Hex Gaming Mouse
+1532,Razer,000d,DiamondBack 3G Gaming Mouse
+1532,Razer,00b9,Basilisk V3 X HyperSpeed Gaming Mouse
+1532,Razer,0065,Basilisk Essential Gaming Mouse
+1532,Razer,0096,Naga X Gaming Mouse
+1532,Razer,004d,DeathAdder 2000 Cynosa Pro Gaming Mouse
+1532,Razer,0098,DeathAdder Essential Gaming Mouse
+1532,Razer,0099,Basilisk V3 Gaming Mouse
+1532,Razer,0099,DeathAdder Essential Gaming Mouse
+1532,Razer,00B4,Naga V2 HyperSpeed Gaming Mouse
+1532,Razer,021e,Ornata Chroma Gaming Keyboard
+1532,Razer,022a,Cynosa Chroma Gaming Keyboard
+1532,Razer,023f,Cynosa Lite Gaming Keyboard
+1532,Razer,024e,BlackWidow V3 Gaming Keyboard
+1532,Razer,0257,Huntsman Mini Gaming Keyboard
+1532,Razer,025d,Ornata V2 Gaming Keyboard
+1532,Razer,025e,Cynosa V2 Gaming Keyboard
+1532,Razer,026c,Huntsman V2 Gaming Keyboard
+1532,Razer,02a2,Ornata V3 X Gaming Keyboard
+1532,Razer,0504,Kraken 7.1 V2 Gaming Headset
+1532,Razer,0510,Kraken 7.1V2 Gaming Headset
+1532,Razer,0065,USB SoundCard Black SharkV2 Gaming Headset
+1532,Razer,00b4,Naga Hyperspeed V2 Gaming Mouse
+1532,Razer,011a,BlackWidow Ultimate Gaming Keyboard
+1532,Razer,00b2,Deathadder V3 Gaming Keyboard
+1532,Razer,0067,Naga Trinity Gaming Mouse
+1532,Razer,008a,Viper Mini Gaming Mouse
+1532,Razer,0529,USB SoundCard Black SharkV2 Gaming Headset
+1532,Razer,005e,Abyssus 2000 Gaming Mouse
+1532,Razer,007a,RC30-0305 Gaming Mouse
+1532,Razer,00aa,Basilisk V3 Pro Gaming Mouse
+1532,Razer,010b,Arctosa Gaming Keyboard
+1532,Razer,02a1,Ornata Gaming Keyboard
+1532,Razer,0228,USB SoundCard Black SharkV2 Gaming Headset
+1532,Razer,122e,Thunderbolt 4 Dock Chroma Gaming Dock
+1532,Razer,0f30,Thunderbolt 4 Dock Chroma Gaming Dock
+1532,Razer,0f21,Thunderbolt 4 Dock Chroma Gaming Dock
+1532,Razer,0f2f,Thunderbolt 4 Dock Chroma Gaming Dock
+1532,Razer,0064,Basilisk Gaming Mouse
+1532,Razer,002e,RZ01-0058 Gaming Mouse [Naga 2012]
+1532,Razer,0202,DeathStalker Expert
+1532,Razer,0520,Kraken Tournament Edition
+1038,SteelSeries,1282,GameDac Gaming Audio/Headset
+1038,SteelSeries,12aa,Arctis 5 RGB Gaming Audio/Headset
+1038,SteelSeries,1208,Apex 300 Gaming Keyboard
+1038,SteelSeries,1361,Sensei Gaming Mouse
+1038,SteelSeries,160e,Apex 100 Gaming Keyboard
+1038,SteelSeries,161a,ApS Apex 3 Gaming Mouse
+1038,SteelSeries,1622,Apex TKL Gaming Keyboard
+1038,SteelSeries,1710,Rival 300 Gaming Mouse
+1038,SteelSeries,1720,ApS Gaming Mouse
+1038,SteelSeries,1724,Rival 600 Gaming Mouse
+1038,SteelSeries,1824,Rival 3 - Wireless Gaming Mouse
+1038,SteelSeries,182c,Prime+ Gaming Mouse
+1038,SteelSeries,1836,Aerox 3 Wireless Gaming Mouse
+1038,SteelSeries,1838,Aerox 3 - Wireless Gaming Mouse
+1038,SteelSeries,1729,Rival 110 Gaming Mouse
+1038,SteelSeries,184c,ApS Rival 3 Gaming Mouse
+1038,SteelSeries,183c,ApS Rival 5 Gaming Mouse
+1038,SteelSeries,12aa,Arctis 5 Gaming Headset
+0a12,Generic,1243,iHome iBN27(Bluetooth Speaker)
+10d6,Generic,4801,G06-BT(Bluetooth Headset)
 
