@@ -1,4 +1,5 @@
 VID,Vendor,PID,Product
+25a7,Areson,fa23,Bluetooth Unifying Receiver
 05ac,Apple,12a8,iPhone
 05ac,Apple,1393,AirPods Case
 04e8,Samsung,6860,Samsung Galaxy
