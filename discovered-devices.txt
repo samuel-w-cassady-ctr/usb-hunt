@@ -110,6 +110,7 @@ VID,Vendor,PID,Product
 1532,Razer,002e,RZ01-0058 Gaming Mouse [Naga 2012]
 1532,Razer,0202,DeathStalker Expert
 1532,Razer,0520,Kraken Tournament Edition
+1532,Razer,026B,Huntsman Elite TKL
 1038,SteelSeries,1282,GameDac Gaming Audio/Headset
 1038,SteelSeries,12aa,Arctis 5 RGB Gaming Audio/Headset
 1038,SteelSeries,1208,Apex 300 Gaming Keyboard
