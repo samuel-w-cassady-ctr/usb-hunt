@@ -131,4 +131,7 @@ VID,Vendor,PID,Product
 1038,SteelSeries,12aa,Arctis 5 Gaming Headset
 0a12,Generic,1243,iHome iBN27(Bluetooth Speaker)
 10d6,Generic,4801,G06-BT(Bluetooth Headset)
+04d9,Holtek,fc38,Redragon M602 RG
+0C45,Holtek,5004,Redragon Mitra RGB
+5943,Jeecoo,3130,M20 Bluetooth
 
