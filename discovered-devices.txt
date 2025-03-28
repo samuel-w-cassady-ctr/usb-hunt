@@ -3,6 +3,7 @@ VID,Vendor,PID,Product
 05ac,Apple Inc.,12a8,iPhone
 05ac,Apple Inc.,1393,AirPods Case
 05ac,Apple Inc.,0500,MagSafe Charger
+05ac,Apple Inc.,139D,MagSafe Charger
 04e8,Samsung,6860,Samsung Galaxy
 046d,Logitech,c52b,Bluetooth Unifying Receiver
 046d,Logitech,c534,Bluetooth Unifying Receiver
@@ -42,6 +43,7 @@ VID,Vendor,PID,Product
 1b1c,Corsair,1b1c,M65 Pro RGB Gaming Mouse
 1b1c,Corsair,1b3c,Harpoon RGB Gaming Mouse
 1b1c,Corsair,1b13,Vengeance K70RGB Gaming Keyboard
+1b1c,Corsair,1bff,K70 Core RGB Gaming Keyboard
 1b1c,Corsair,1b20,STRAFE RGB Gaming Keyboard
 1b1c,Corsair,1b09,Vengeance K70R Gaming Keyboard
 1b1c,Corsair,1b11,K95 RGB Mechanical Gaming Keyboard
@@ -53,7 +55,13 @@ VID,Vendor,PID,Product
 1b1c,Corsair,1b04,Raptor K50 Gaming Keyboard
 1b1c,Corsair,0a60,Vengeance K60 Gaming Keyboard
 1b1c,Corsair,1b74,Glaive RGB Pro Gaming Mouse
+1b1c,Corsair,1b75,Harpoon RGB Pro Gaming Mouse
 1b1c,Corsair,1b3e,Scimitar Pro Gaming Mouse
+1b1c,Corsair,1b4c,Iron Claw RGB Wireless Mouse
+1b1c,Corsair,1b5a,M65 Pro RGB Gaming Mouse
+1b1c,Corsair,1b5c,Nightsword RGB Gaming Mouse
+1b1c,Corsair,1b70,M55 RGB Pro Gaming Mouse
+1b1c,Corsair,1b7f,DarkCore RGB Pro Gaming Mouse
 1532,Razer,0037,DeathAdder 2013 Gaming Mouse
 1532,Razer,003e,Naga Epic Chroma Gaming Mouse
 1532,Razer,0016,DeathAdder Gaming Mouse
@@ -87,6 +95,7 @@ VID,Vendor,PID,Product
 1532,Razer,025e,Cynosa V2 Gaming Keyboard
 1532,Razer,026c,Huntsman V2 Gaming Keyboard
 1532,Razer,02a2,Ornata V3 X Gaming Keyboard
+1532,Razer,0502,Kraken 7.1 V2 Gaming Headset
 1532,Razer,0504,Kraken 7.1 V2 Gaming Headset
 1532,Razer,0510,Kraken 7.1V2 Gaming Headset
 1532,Razer,0065,USB SoundCard Black SharkV2 Gaming Headset
@@ -111,6 +120,7 @@ VID,Vendor,PID,Product
 1532,Razer,0202,DeathStalker Expert
 1532,Razer,0520,Kraken Tournament Edition
 1532,Razer,026b,Huntsman Elite TKL
+1532,Razer,001F,Razer Naga Epic
 1038,SteelSeries,1282,GameDac Gaming Audio/Headset
 1038,SteelSeries,12aa,Arctis 5 RGB Gaming Audio/Headset
 1038,SteelSeries,1208,Apex 300 Gaming Keyboard
