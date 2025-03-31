@@ -1,4 +1,5 @@
 VID,Vendor,PID,Product
+18f8,RedGear,0fc0,Shadow Blade Gaming Keyboard
 1ea7,Sharkoon,0064,2.4GHz Wireless Rechargeable Vertical Mouse 
 25a7,Areson,fa23,Bluetooth Unifying Receiver
 05ac,Apple Inc.,12a8,iPhone
