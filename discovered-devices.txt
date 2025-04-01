@@ -67,6 +67,7 @@ VID,Vendor,PID,Product
 1b1c,Corsair,1b70,M55 RGB Pro Gaming Mouse
 1b1c,Corsair,1b7f,DarkCore RGB Pro Gaming Mouse
 1532,Razer,0037,DeathAdder 2013 Gaming Mouse
+1532,Razer,00b8,Viper V3 HyperSpeed Mouse
 1532,Razer,003e,Naga Epic Chroma Gaming Mouse
 1532,Razer,0016,DeathAdder Gaming Mouse
 1532,Razer,0043,DeathAdder Chroma Gaming Mouse
