@@ -1,5 +1,4 @@
 VID,Vendor,PID,Product
-18f8,Maxxter,0fc0,Gaming Mouse
 18f8,Maxxter,0f97,Optical Xtrem Gaming Mouse
 18f8,Maxxter,0f99,Optical Gaming Mouse
 248a,Maxxter,8367,Telink Wireless Receiver
