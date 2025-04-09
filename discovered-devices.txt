@@ -75,6 +75,7 @@ VID,Vendor,PID,Product
 1532,Razer,006e,DeathAdder Essential Gaming Mouse
 1532,Razer,0073,Mamba Wireless Gaming Mouse
 1532,Razer,007b,Viper Ultimate Wireless Gaming Mouse
+1532,Razer,0083,Basilisk X HyperSpeed Gaming Mouse
 1532,Razer,0084,DeathAdder V2 Gaming Mouse
 1532,Razer,0085,Basilisk V2 Gaming Mouse
 1532,Razer,0086,Basilisk Ultimate Wireless Gaming Mouse
