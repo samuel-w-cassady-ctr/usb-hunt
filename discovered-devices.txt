@@ -7,6 +7,7 @@ VID,Vendor,PID,Product
 05ac,Apple Inc.,139D,MagSafe Charger
 04e8,Samsung,6860,Samsung Galaxy
 2516,CoolerMaster,0011,Storm Quick Fire TK 6Keys 
+045e,Microsoft,00e1,Wireless Laser Mouse 6000 Receiver
 046d,Logitech,c52b,Bluetooth Unifying Receiver
 046d,Logitech,c534,Bluetooth Unifying Receiver
 046d,Logitech,c539,Lightspeed Wireless Receiver
