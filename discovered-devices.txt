@@ -161,5 +161,6 @@ VID,Vendor,PID,Product
 1ea7,Sharkoon,0064,2.4GHz Wireless Rechargeable Vertical Mouse 
 248a,Maxxter,8367,Maxxter Telink Wireless Receiver
 2516,CoolerMaster,0011,Storm Quick Fire TK 6Keys 
+2516,CoolerMaster,0014,Storm Quick Fire TK Nkeys
 25a7,Areson,fa23,Bluetooth Unifying Receiver
 5943,Jeecoo,3130,M20 Bluetooth
