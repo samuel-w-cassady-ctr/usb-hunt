@@ -1,13 +1,20 @@
 VID,Vendor,PID,Product
+18f8,Maxxter,0f99,Optical Gaming Mouse
+18f8,Maxxter,0f97,Maxxter Optical Xtrem Mouse
+18f8,Maxxter,0fcO,Maxxter Gaming Mouse
+248a,Maxxter,8367,Maxxter Telink Wireless Receiver
 1ea7,Sharkoon,0064,2.4GHz Wireless Rechargeable Vertical Mouse 
 25a7,Areson,fa23,Bluetooth Unifying Receiver
 05ac,Apple Inc.,12a8,iPhone
 05ac,Apple Inc.,1393,AirPods Case
 05ac,Apple Inc.,0500,MagSafe Charger
 05ac,Apple Inc.,139D,MagSafe Charger
+05ac,Apple Inc.,1668,Macbook
 04e8,Samsung,6860,Samsung Galaxy
 2516,CoolerMaster,0011,Storm Quick Fire TK 6Keys 
 045e,Microsoft,00e1,Wireless Laser Mouse 6000 Receiver
+045e,Microsoft,0745,Microsoft Nano Transceiver
+046a,Cherry,MX Board 3.0S FL RGB
 046d,Logitech,c52b,Bluetooth Unifying Receiver
 046d,Logitech,c534,Bluetooth Unifying Receiver
 046d,Logitech,c539,Lightspeed Wireless Receiver
@@ -17,6 +24,8 @@ VID,Vendor,PID,Product
 046d,Logitech,c52f,Nano Wireless Receiver
 046d,Logitech,c542,M185 Wireless Mouse
 062a,Mosart,4102,Bluetooth Unifying Receiver
+062a,Mosart,4106,Bluetooth Unifying Receiver
+046d,Logitech,c083,Logitech G403 Prodigy
 046d,Logitech,c084,G203 Gaming Mouse
 046d,Logitech,c336,G213 Prodigy Gaming Keyboard
 046d,Logitech,c08b,G502 HERO Gaming Mouse
@@ -39,6 +48,7 @@ VID,Vendor,PID,Product
 046d,Logitech,c515,Cordless 2.4 GHz Presenter
 1b1c,Corsair,1c1a,Harpoon Wireless Dongle
 1b1c,Corsair,1b3d,K55 RGB Gaming Keyboard
+1b1c,Corsair,1b93,Katar Pro Gaming Mouse
 1b1c,Corsair,1ba4,K55 RGB Pro Gaming Keyboard
 1b1c,Corsair,1b5e,Harpoon Wireless Gaming Mouse
 1b1c,Corsair,1b2d,K95 RGB Platinum Gaming Keyboard
@@ -115,7 +125,7 @@ VID,Vendor,PID,Product
 1532,Razer,00aa,Basilisk V3 Pro Gaming Mouse
 1532,Razer,010b,Arctosa Gaming Keyboard
 1532,Razer,02a1,Ornata Gaming Keyboard
-1532,Razer,0228,USB SoundCard Black SharkV2 Gaming Headset
+1532,Razer,0228,USB Black SharkV2 Gaming Headset
 1532,Razer,122e,Thunderbolt 4 Dock Chroma Gaming Dock
 1532,Razer,0f30,Thunderbolt 4 Dock Chroma Gaming Dock
 1532,Razer,0f21,Thunderbolt 4 Dock Chroma Gaming Dock
@@ -123,6 +133,7 @@ VID,Vendor,PID,Product
 1532,Razer,0064,Basilisk Gaming Mouse
 1532,Razer,002e,RZ01-0058 Gaming Mouse [Naga 2012]
 1532,Razer,0202,DeathStalker Expert
+1532,Razer,0243,Huntsman TE Gaming Keyboard
 1532,Razer,0520,Kraken Tournament Edition
 1532,Razer,026b,Huntsman Elite TKL
 1532,Razer,001F,Razer Naga Epic
@@ -131,6 +142,7 @@ VID,Vendor,PID,Product
 1038,SteelSeries,1208,Apex 300 Gaming Keyboard
 1038,SteelSeries,1361,Sensei Gaming Mouse
 1038,SteelSeries,160e,Apex 100 Gaming Keyboard
+1038,SteelSeries,1610,ApS Apex Pro Gaming Keyboard
 1038,SteelSeries,161a,ApS Apex 3 Gaming Mouse
 1038,SteelSeries,1622,Apex TKL Gaming Keyboard
 1038,SteelSeries,1710,Rival 300 Gaming Mouse
@@ -147,6 +159,8 @@ VID,Vendor,PID,Product
 0a12,Generic,1243,iHome iBN27(Bluetooth Speaker)
 10d6,Generic,4801,G06-BT(Bluetooth Headset)
 04d9,Holtek,fc38,Redragon M602 RG
+04d9,LUOM,A09F,G10 Mechanical Mouse
 0C45,Holtek,5004,Redragon Mitra RGB
 5943,Jeecoo,3130,M20 Bluetooth
+0e6a,Megawin,02c0,Defender Gaming Keyboard
 
