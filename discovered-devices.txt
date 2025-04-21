@@ -1,20 +1,7 @@
 VID,Vendor,PID,Product
-18f8,Maxxter,0f99,Optical Gaming Mouse
-18f8,Maxxter,0f97,Maxxter Optical Xtrem Mouse
-18f8,Maxxter,0fcO,Maxxter Gaming Mouse
-248a,Maxxter,8367,Maxxter Telink Wireless Receiver
-1ea7,Sharkoon,0064,2.4GHz Wireless Rechargeable Vertical Mouse 
-25a7,Areson,fa23,Bluetooth Unifying Receiver
-05ac,Apple Inc.,12a8,iPhone
-05ac,Apple Inc.,1393,AirPods Case
-05ac,Apple Inc.,0500,MagSafe Charger
-05ac,Apple Inc.,139D,MagSafe Charger
-05ac,Apple Inc.,1668,Macbook
-04e8,Samsung,6860,Samsung Galaxy
-2516,CoolerMaster,0011,Storm Quick Fire TK 6Keys 
 045e,Microsoft,00e1,Wireless Laser Mouse 6000 Receiver
 045e,Microsoft,0745,Microsoft Nano Transceiver
-046a,Cherry,0079,MX Board 3.0S FL RGB
+046a,Cherry,MX Board 3.0S FL RGB,
 046d,Logitech,c52b,Bluetooth Unifying Receiver
 046d,Logitech,c534,Bluetooth Unifying Receiver
 046d,Logitech,c539,Lightspeed Wireless Receiver
@@ -23,8 +10,6 @@ VID,Vendor,PID,Product
 046d,Logitech,c52e,MK260 Wireless Combo Receiver
 046d,Logitech,c52f,Nano Wireless Receiver
 046d,Logitech,c542,M185 Wireless Mouse
-062a,Mosart,4102,Bluetooth Unifying Receiver
-062a,Mosart,4106,Bluetooth Unifying Receiver
 046d,Logitech,c083,Logitech G403 Prodigy
 046d,Logitech,c084,G203 Gaming Mouse
 046d,Logitech,c336,G213 Prodigy Gaming Keyboard
@@ -46,35 +31,39 @@ VID,Vendor,PID,Product
 046d,Logitech,b305,Bluetooth Mini Receiver
 046d,Logitech,c548,Logi Bolt Receiver
 046d,Logitech,c515,Cordless 2.4 GHz Presenter
-1b1c,Corsair,1c1a,Harpoon Wireless Dongle
-1b1c,Corsair,1b3d,K55 RGB Gaming Keyboard
-1b1c,Corsair,1b93,Katar Pro Gaming Mouse
-1b1c,Corsair,1ba4,K55 RGB Pro Gaming Keyboard
-1b1c,Corsair,1b5e,Harpoon Wireless Gaming Mouse
-1b1c,Corsair,1b2d,K95 RGB Platinum Gaming Keyboard
-1b1c,Corsair,1b2e,M65 Pro RGB Gaming Mouse
-1b1c,Corsair,1b1c,M65 Pro RGB Gaming Mouse
-1b1c,Corsair,1b3c,Harpoon RGB Gaming Mouse
-1b1c,Corsair,1b13,Vengeance K70RGB Gaming Keyboard
-1b1c,Corsair,1bff,K70 Core RGB Gaming Keyboard
-1b1c,Corsair,1b20,STRAFE RGB Gaming Keyboard
-1b1c,Corsair,1b09,Vengeance K70R Gaming Keyboard
-1b1c,Corsair,1b11,K95 RGB Mechanical Gaming Keyboard
-1b1c,Corsair,1b49,K70 RGB MK2 Mechanical Gaming Keyboard
-1b1c,Corsair,1b8b,Scimitar RGB Elite Gaming Mouse
-1b1c,Corsair,1b07,Vengeance K65 Gaming Keyboard
-1b1c,Corsair,0a17,VOID Pro USB Gaming Headset
-1b1c,Corsair,1b08,Vengeance K95 Gaming Keyboard
-1b1c,Corsair,1b04,Raptor K50 Gaming Keyboard
-1b1c,Corsair,0a60,Vengeance K60 Gaming Keyboard
-1b1c,Corsair,1b74,Glaive RGB Pro Gaming Mouse
-1b1c,Corsair,1b75,Harpoon RGB Pro Gaming Mouse
-1b1c,Corsair,1b3e,Scimitar Pro Gaming Mouse
-1b1c,Corsair,1b4c,Iron Claw RGB Wireless Mouse
-1b1c,Corsair,1b5a,M65 Pro RGB Gaming Mouse
-1b1c,Corsair,1b5c,Nightsword RGB Gaming Mouse
-1b1c,Corsair,1b70,M55 RGB Pro Gaming Mouse
-1b1c,Corsair,1b7f,DarkCore RGB Pro Gaming Mouse
+04d9,Holtek,fc38,Redragon M602 RG
+04d9,LUOM,A09F,G10 Mechanical Mouse
+04e8,Samsung,6860,Samsung Galaxy
+05ac,Apple Inc.,12a8,iPhone
+05ac,Apple Inc.,1393,AirPods Case
+05ac,Apple Inc.,0500,MagSafe Charger
+05ac,Apple Inc.,139D,MagSafe Charger
+05ac,Apple Inc.,1668,Macbook
+062a,Mosart,4102,Bluetooth Unifying Receiver
+062a,Mosart,4106,Bluetooth Unifying Receiver
+0a12,Generic,1243,iHome iBN27(Bluetooth Speaker)
+0C45,Holtek,5004,Redragon Mitra RGB
+0e6a,Megawin,02c0,Defender Gaming Keyboard
+1038,SteelSeries,1282,GameDac Gaming Audio/Headset
+1038,SteelSeries,12aa,Arctis 5 RGB Gaming Audio/Headset
+1038,SteelSeries,1208,Apex 300 Gaming Keyboard
+1038,SteelSeries,1361,Sensei Gaming Mouse
+1038,SteelSeries,160e,Apex 100 Gaming Keyboard
+1038,SteelSeries,1610,ApS Apex Pro Gaming Keyboard
+1038,SteelSeries,161a,ApS Apex 3 Gaming Mouse
+1038,SteelSeries,1622,Apex TKL Gaming Keyboard
+1038,SteelSeries,1710,Rival 300 Gaming Mouse
+1038,SteelSeries,1720,ApS Gaming Mouse
+1038,SteelSeries,1724,Rival 600 Gaming Mouse
+1038,SteelSeries,1824,Rival 3 - Gaming Mouse
+1038,SteelSeries,182c,Prime+ Gaming Mouse
+1038,SteelSeries,1836,Aerox 3 Wireless Gaming Mouse
+1038,SteelSeries,1838,Aerox 3 - Wireless Gaming Mouse
+1038,SteelSeries,1729,Rival 110 Gaming Mouse
+1038,SteelSeries,184c,ApS Rival 3 Gaming Mouse
+1038,SteelSeries,183c,ApS Rival 5 Gaming Mouse
+1038,SteelSeries,12aa,Arctis 5 Gaming Headset
+10d6,Generic,4801,G06-BT(Bluetooth Headset)
 1532,Razer,0037,DeathAdder 2013 Gaming Mouse
 1532,Razer,00b8,Viper V3 HyperSpeed Mouse
 1532,Razer,003e,Naga Epic Chroma Gaming Mouse
@@ -137,30 +126,40 @@ VID,Vendor,PID,Product
 1532,Razer,0520,Kraken Tournament Edition
 1532,Razer,026b,Huntsman Elite TKL
 1532,Razer,001F,Razer Naga Epic
-1038,SteelSeries,1282,GameDac Gaming Audio/Headset
-1038,SteelSeries,12aa,Arctis 5 RGB Gaming Audio/Headset
-1038,SteelSeries,1208,Apex 300 Gaming Keyboard
-1038,SteelSeries,1361,Sensei Gaming Mouse
-1038,SteelSeries,160e,Apex 100 Gaming Keyboard
-1038,SteelSeries,1610,ApS Apex Pro Gaming Keyboard
-1038,SteelSeries,161a,ApS Apex 3 Gaming Mouse
-1038,SteelSeries,1622,Apex TKL Gaming Keyboard
-1038,SteelSeries,1710,Rival 300 Gaming Mouse
-1038,SteelSeries,1720,ApS Gaming Mouse
-1038,SteelSeries,1724,Rival 600 Gaming Mouse
-1038,SteelSeries,1824,Rival 3 - Gaming Mouse
-1038,SteelSeries,182c,Prime+ Gaming Mouse
-1038,SteelSeries,1836,Aerox 3 Wireless Gaming Mouse
-1038,SteelSeries,1838,Aerox 3 - Wireless Gaming Mouse
-1038,SteelSeries,1729,Rival 110 Gaming Mouse
-1038,SteelSeries,184c,ApS Rival 3 Gaming Mouse
-1038,SteelSeries,183c,ApS Rival 5 Gaming Mouse
-1038,SteelSeries,12aa,Arctis 5 Gaming Headset
-0a12,Generic,1243,iHome iBN27(Bluetooth Speaker)
-10d6,Generic,4801,G06-BT(Bluetooth Headset)
-04d9,Holtek,fc38,Redragon M602 RG
-04d9,LUOM,A09F,G10 Mechanical Mouse
-0C45,Holtek,5004,Redragon Mitra RGB
+18f8,Maxxter,0f99,Optical Gaming Mouse
+18f8,Maxxter,0f97,Maxxter Optical Xtrem Mouse
+18f8,Maxxter,0fcO,Maxxter Gaming Mouse
+1b1c,Corsair,1c1a,Harpoon Wireless Dongle
+1b1c,Corsair,1b3d,K55 RGB Gaming Keyboard
+1b1c,Corsair,1b93,Katar Pro Gaming Mouse
+1b1c,Corsair,1ba4,K55 RGB Pro Gaming Keyboard
+1b1c,Corsair,1b5e,Harpoon Wireless Gaming Mouse
+1b1c,Corsair,1b2d,K95 RGB Platinum Gaming Keyboard
+1b1c,Corsair,1b2e,M65 Pro RGB Gaming Mouse
+1b1c,Corsair,1b1c,M65 Pro RGB Gaming Mouse
+1b1c,Corsair,1b3c,Harpoon RGB Gaming Mouse
+1b1c,Corsair,1b13,Vengeance K70RGB Gaming Keyboard
+1b1c,Corsair,1bff,K70 Core RGB Gaming Keyboard
+1b1c,Corsair,1b20,STRAFE RGB Gaming Keyboard
+1b1c,Corsair,1b09,Vengeance K70R Gaming Keyboard
+1b1c,Corsair,1b11,K95 RGB Mechanical Gaming Keyboard
+1b1c,Corsair,1b49,K70 RGB MK2 Mechanical Gaming Keyboard
+1b1c,Corsair,1b8b,Scimitar RGB Elite Gaming Mouse
+1b1c,Corsair,1b07,Vengeance K65 Gaming Keyboard
+1b1c,Corsair,0a17,VOID Pro USB Gaming Headset
+1b1c,Corsair,1b08,Vengeance K95 Gaming Keyboard
+1b1c,Corsair,1b04,Raptor K50 Gaming Keyboard
+1b1c,Corsair,0a60,Vengeance K60 Gaming Keyboard
+1b1c,Corsair,1b74,Glaive RGB Pro Gaming Mouse
+1b1c,Corsair,1b75,Harpoon RGB Pro Gaming Mouse
+1b1c,Corsair,1b3e,Scimitar Pro Gaming Mouse
+1b1c,Corsair,1b4c,Iron Claw RGB Wireless Mouse
+1b1c,Corsair,1b5a,M65 Pro RGB Gaming Mouse
+1b1c,Corsair,1b5c,Nightsword RGB Gaming Mouse
+1b1c,Corsair,1b70,M55 RGB Pro Gaming Mouse
+1b1c,Corsair,1b7f,DarkCore RGB Pro Gaming Mouse
+1ea7,Sharkoon,0064,2.4GHz Wireless Rechargeable Vertical Mouse 
+248a,Maxxter,8367,Maxxter Telink Wireless Receiver
+2516,CoolerMaster,0011,Storm Quick Fire TK 6Keys 
+25a7,Areson,fa23,Bluetooth Unifying Receiver
 5943,Jeecoo,3130,M20 Bluetooth
-0e6a,Megawin,02c0,Defender Gaming Keyboard
-
