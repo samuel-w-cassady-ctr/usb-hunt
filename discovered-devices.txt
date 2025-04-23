@@ -88,7 +88,6 @@ VID,Vendor,PID,Product
 1532,Razer,004d,DeathAdder 2000 Cynosa Pro Gaming Mouse
 1532,Razer,0098,DeathAdder Essential Gaming Mouse
 1532,Razer,0099,Basilisk V3 Gaming Mouse
-1532,Razer,0099,DeathAdder Essential Gaming Mouse
 1532,Razer,00B4,Naga V2 HyperSpeed Gaming Mouse
 1532,Razer,021e,Ornata Chroma Gaming Keyboard
 1532,Razer,022a,Cynosa Chroma Gaming Keyboard
