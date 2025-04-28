@@ -32,6 +32,8 @@ VID,Vendor,PID,Product
 046d,Logitech,c548,Logi Bolt Receiver
 046d,Logitech,c515,Cordless 2.4 GHz Presenter
 04d9,Holtek,fc38,Redragon M602 RG
+04d9,Holtek,fc4d,Redragon M908 Gaming Mouse
+04d9,Holtek,fc30,Redragon M711 Gaming Mouse
 04d9,LUOM,A09F,G10 Mechanical Mouse
 04e8,Samsung,6860,Samsung Galaxy
 05ac,Apple Inc.,12a8,iPhone
