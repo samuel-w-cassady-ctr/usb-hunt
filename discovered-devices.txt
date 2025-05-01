@@ -72,7 +72,7 @@ VID,Vendor,PID,Product
 1532,Razer,003e,Naga Epic Chroma Gaming Mouse
 1532,Razer,0016,DeathAdder Gaming Mouse
 1532,Razer,0043,DeathAdder Chroma Gaming Mouse
-1532,Razer,0044,Mamba Chroma
+1532,Razer,0044,Mamba Chroma Gaming Mouse
 1532,Razer,0034,Taipan Ambidextrous Gaming Mouse
 1532,Razer,005c,DeathAdder Elite Gaming Mouse
 1532,Razer,006c,Mamba Elite Gaming Mouse
