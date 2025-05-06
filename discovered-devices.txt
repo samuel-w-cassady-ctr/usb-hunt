@@ -42,6 +42,7 @@ VID,Vendor,PID,Product
 05ac,Apple Inc.,0500,MagSafe Charger
 05ac,Apple Inc.,139D,MagSafe Charger
 05ac,Apple Inc.,1668,Macbook
+05ac,Apple Inc.,024f,Aluminum Keyboard
 062a,Mosart,4102,Bluetooth Unifying Receiver
 062a,Mosart,4106,Bluetooth Unifying Receiver
 0a12,Generic,1243,iHome iBN27(Bluetooth Speaker)
