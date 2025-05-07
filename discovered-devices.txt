@@ -142,6 +142,7 @@ VID,Vendor,PID,Product
 1b1c,Corsair,1b2e,M65 Pro RGB Gaming Mouse
 1b1c,Corsair,1b1c,M65 Pro RGB Gaming Mouse
 1b1c,Corsair,1b3c,Harpoon RGB Gaming Mouse
+1b1c,Corsair,1b9e,M65 Ultra Gaming Mouse
 1b1c,Corsair,1b13,Vengeance K70RGB Gaming Keyboard
 1b1c,Corsair,1bff,K70 Core RGB Gaming Keyboard
 1b1c,Corsair,1b20,STRAFE RGB Gaming Keyboard
