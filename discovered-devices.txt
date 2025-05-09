@@ -38,6 +38,7 @@ VID,Vendor,PID,Product
 04e8,Samsung,6860,Samsung Galaxy
 05ac,Apple Inc.,1018,USB HUB
 05ac,Apple Inc.,12a8,iPhone
+05ac,Apple Inc.,12ab,iPad
 05ac,Apple Inc.,1393,AirPods Case
 05ac,Apple Inc.,0500,MagSafe Charger
 05ac,Apple Inc.,139D,MagSafe Charger
