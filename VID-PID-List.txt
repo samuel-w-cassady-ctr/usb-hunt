@@ -1,5 +1,5 @@
 ﻿VID,Vendor,PID,Product
-18f8,[Maxxter],0f97,Optical Gaming Mouse [Xtrem]
+18f8,[Maxxter],0f97,Optical Gaming Mouse [Xtrem] 
 18f8,[Maxxter],0f99,Optical gaming mouse
 18f8,[Maxxter],1142,Optical gaming mouse
 18f8,[Maxxter],1486,X5s ZEUS Macro Pro Gaming Mouse
@@ -10,7 +10,6 @@
 a727,3Com,6893,3CRUSB20075 OfficeConnect Wireless 108Mbps 11g Adapter [Atheros AR5523]
 a727,3Com,6895,AR5523
 a727,3Com,6897,AR5523
-0506,3Com Corp.,009d,HomeConnect Camera
 0506,3Com Corp.,00a0,3CREB96 Bluetooth Adapter
 0506,3Com Corp.,00a1,Bluetooth Device
 0506,3Com Corp.,00a2,Bluetooth Device
@@ -96,7 +95,6 @@ a727,3Com,6897,AR5523
 06d6,Aashima Technology B.V.,003b,Trust PowerC@m 770Z (webcam mode)
 06d6,Aashima Technology B.V.,003c,Trust 910z PowerC@m
 06d6,Aashima Technology B.V.,003f,"Trust 735S POWERC@M ZOOM, WDM DSC Bulk Driver"
-06d6,Aashima Technology B.V.,0050,Trust 738AV LCD PV Digital Camera
 06d6,Aashima Technology B.V.,0062,TRUST 782AV LCD P. V. Video Capture
 06d6,Aashima Technology B.V.,0066,TRUST Digital PCTV and Movie Editor
 06d6,Aashima Technology B.V.,0067,Trust 350FS POWERC@M FLASH
@@ -301,7 +299,6 @@ a727,3Com,6897,AR5523
 0502,"Acer, Inc.",33c4,Liquid Gallant Duo E350 (debug mode)
 0502,"Acer, Inc.",33c7,Liquid Gallant Duo E350 (USB tethering)
 0502,"Acer, Inc.",33c8,"Liquid Gallant Duo E350 (debug mode, USB tethering)"
-0502,"Acer, Inc.",d001,Divio NW801/DVC-V6+ Digital Camera
 0f62,"Acrox Technologies Co., Ltd",1001,Targus Mini Trackball Optical Mouse
 1a34,ACRUX,0802,Gamepad
 0c6a,ACS,0005,Color 320 x 240 LCD Display Terminal with Touchscreen
@@ -509,8 +506,6 @@ a727,3Com,6897,AR5523
 06bd,AGFA-Gevaert NV,02bf,DUOSCAN f40
 06bd,AGFA-Gevaert NV,0400,CL30
 06bd,AGFA-Gevaert NV,0401,Mass Storage
-06bd,AGFA-Gevaert NV,0403,ePhoto CL18 Camera
-06bd,AGFA-Gevaert NV,0404,ePhoto CL20 Camera
 06bd,AGFA-Gevaert NV,2061,SnapScan 1212U (?)
 06bd,AGFA-Gevaert NV,208d,Snapscan e40
 06bd,AGFA-Gevaert NV,208f,SnapScan e50
@@ -520,11 +515,8 @@ a727,3Com,6897,AR5523
 06bd,AGFA-Gevaert NV,2097,SnapScan e26
 06bd,AGFA-Gevaert NV,20fd,SnapScan e52
 06bd,AGFA-Gevaert NV,20ff,SnapScan e42
-326d,"Agile Display Solutions Co., Ltd",0001,Avocor USB Camera
 0957,"Agilent Technologies, Inc.",0007,82357A GPIB Interface Firmware loader
 0957,"Agilent Technologies, Inc.",0107,82357A GPIB Interface
-0957,"Agilent Technologies, Inc.",0200,E-Video DC-350 Camera
-0957,"Agilent Technologies, Inc.",0202,E-Video DC-350 Camera
 0957,"Agilent Technologies, Inc.",0407,33220A Waveform Generator
 0957,"Agilent Technologies, Inc.",0518,82357B GPIB Interface Firmware loader
 0957,"Agilent Technologies, Inc.",0607,34410A Multimeter
@@ -550,12 +542,10 @@ c502,AGPTek,0029,Rocker
 08ca,"Aiptek International, Inc.",0024,Tablet
 08ca,"Aiptek International, Inc.",0100,Pen Drive
 08ca,"Aiptek International, Inc.",0102,DualCam
-08ca,"Aiptek International, Inc.",0103,Pocket DV Digital Camera
 08ca,"Aiptek International, Inc.",0104,Pocket DVII
 08ca,"Aiptek International, Inc.",0105,Mega DV(Disk)
 08ca,"Aiptek International, Inc.",0106,Pocket DV3100+
 08ca,"Aiptek International, Inc.",0107,Pocket DV3100
-08ca,"Aiptek International, Inc.",0109,Nisis DV4 Digital Camera
 08ca,"Aiptek International, Inc.",010a,Trust 738AV LCD PV Mass Storage
 08ca,"Aiptek International, Inc.",0111,PenCam VGA Plus
 08ca,"Aiptek International, Inc.",2008,Mini PenCam 2
@@ -700,9 +690,6 @@ c502,AGPTek,0029,Rocker
 0c4a,ALGE-TIMING GmbH,0889,Timy
 0c4a,ALGE-TIMING GmbH,088a,Timy 2
 0402,ALi Corp.,5462,M5462 IDE Controller
-0402,ALi Corp.,5602,M5602 Video Camera Controller
-0402,ALi Corp.,5603,M5603 Video Camera Controller
-0402,ALi Corp.,5606,M5606 Video Camera Controller [UVC]
 0402,ALi Corp.,5621,M5621 High-Speed IDE Controller
 0402,ALi Corp.,5623,M5623 Scanner Controller
 0402,ALi Corp.,5627,"Welland ME-740PS USB2 3.5"" Power Saving Enclosure"
@@ -713,7 +700,6 @@ c502,AGPTek,0029,Rocker
 0402,ALi Corp.,5642,Storage Device
 0402,ALi Corp.,5661,M5661 MP3 player
 0402,ALi Corp.,5667,M5667 MP3 player
-0402,ALi Corp.,8841,Newmine Camera
 0402,ALi Corp.,9665,Gateway Webcam
 187c,Alienware Corporation,0511,AlienFX Mobile lighting
 187c,Alienware Corporation,0513,Gaming Desktop [Aurora R4]
@@ -765,9 +751,7 @@ c502,AGPTek,0029,Rocker
 2aec,"Ambiq Micro, Inc.",6011,Converter
 0bb2,Ambit Microsystems Corp.,0302,U10H010 802.11b Wireless Adapter [Intersil PRISM 3]
 0bb2,Ambit Microsystems Corp.,6098,USB Cable Modem
-06be,"AME Optimedia Technology Co., Ltd",0800,Optimedia Camera
 06be,"AME Optimedia Technology Co., Ltd",1005,Dazzle DPVM! (1005)
-06be,"AME Optimedia Technology Co., Ltd",d001,P35U Camera Capture
 0d7e,American Computer & Digital Components,2507,Hi-Speed USB-to-IDE Bridge Controller
 0d7e,American Computer & Digital Components,2517,Hi-Speed Mass Storage Device
 0d7e,American Computer & Digital Components,25c7,Hi-Speed USB-to-IDE Bridge Controller
