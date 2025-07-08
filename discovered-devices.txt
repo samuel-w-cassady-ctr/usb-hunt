@@ -10,6 +10,7 @@ VID,Vendor,PID,Product
 046d,Logitech,c52e,MK260 Wireless Combo Receiver
 046d,Logitech,c52f,Nano Wireless Receiver
 046d,Logitech,c542,M185 Wireless Mouse
+046d,Logitech,c08f,Logitech G403 HERO
 046d,Logitech,c083,Logitech G403 Prodigy
 046d,Logitech,c084,G203 Gaming Mouse
 046d,Logitech,c336,G213 Prodigy Gaming Keyboard
