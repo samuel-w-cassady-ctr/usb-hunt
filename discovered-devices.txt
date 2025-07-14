@@ -173,4 +173,5 @@ VID,Vendor,PID,Product
 413C,Dell,301B,Bluetooth Unifying Receiver
 2516,CoolerMaster,0014,Storm Quick Fire TK Nkeys
 25a7,Areson,fa23,Bluetooth Unifying Receiver
+25a7,Areson,fa67,Bluetooth Unifying Receiver
 5943,Jeecoo,3130,M20 Bluetooth
