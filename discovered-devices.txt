@@ -14,6 +14,7 @@ VID,Vendor,PID,Product
 046d,Logitech,c083,Logitech G403 Prodigy
 046d,Logitech,c084,G203 Gaming Mouse
 046d,Logitech,c336,G213 Prodigy Gaming Keyboard
+046d,Logitech,c07e,G402 Hyperion Fury Gaming Mouse
 046d,Logitech,c08b,G502 HERO Gaming Mouse
 046d,Logitech,c33a,G413 Gaming Keyboard
 046d,Logitech,c33c,G513 RGB Mechanical Gaming Keyboard
