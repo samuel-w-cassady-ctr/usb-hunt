@@ -107,6 +107,7 @@ VID,Vendor,PID,Product
 1532,Razer,025e,Cynosa V2 Gaming Keyboard
 1532,Razer,026c,Huntsman V2 Gaming Keyboard
 1532,Razer,02a2,Ornata V3 X Gaming Keyboard
+1532,Razer,0296,DeathStalker V2 Pro TKL Gaming Keyboard
 1532,Razer,0502,Kraken 7.1 V2 Gaming Headset
 1532,Razer,0504,Kraken 7.1 V2 Gaming Headset
 1532,Razer,0510,Kraken 7.1V2 Gaming Headset
