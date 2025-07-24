@@ -16,8 +16,10 @@ VID,Vendor,PID,Product
 046d,Logitech,c336,G213 Prodigy Gaming Keyboard
 046d,Logitech,c07e,G402 Hyperion Fury Gaming Mouse
 046d,Logitech,c08b,G502 HERO Gaming Mouse
+046d,Logitech,c09e,G502 X Plus Millenium Falcon	Gaming Mouse
 046d,Logitech,c33a,G413 Gaming Keyboard
 046d,Logitech,c33c,G513 RGB Mechanical Gaming Keyboard
+046d,Logitech,c33e,G915 Lightspeed Wireless RGB	Gaming Keyboard
 046d,Logitech,c332,G502 Proteus Spectrum Gaming Mouse
 046d,Logitech,c335,G910 Orion Spectrum Mechanical Keyboard
 046d,Logitech,c32b,G910 Orion Spark Mechanical Keyboard
