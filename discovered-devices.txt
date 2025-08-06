@@ -146,6 +146,7 @@ VID,Vendor,PID,Product
 18f8,Maxxter,0fcO,Maxxter Gaming Mouse
 1b1c,Corsair,1c1a,Harpoon Wireless Dongle
 1b1c,Corsair,1b3d,K55 RGB Gaming Keyboard
+1b1c,Corsair,1b22,Katar Gaming Mouse
 1b1c,Corsair,1b93,Katar Pro Gaming Mouse
 1b1c,Corsair,1ba4,K55 RGB Pro Gaming Keyboard
 1b1c,Corsair,1b5e,Harpoon Wireless Gaming Mouse
