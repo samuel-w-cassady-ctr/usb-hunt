@@ -22,6 +22,7 @@ VID,Vendor,PID,Product
 046d,Logitech,c33c,G513 RGB Mechanical Gaming Keyboard
 046d,Logitech,c33e,G915 Lightspeed Wireless RGB	Gaming Keyboard
 046d,Logitech,c332,G502 Proteus Spectrum Gaming Mouse
+046d,Logitech,c099,G502 X Gaming Mouse
 046d,Logitech,c335,G910 Orion Spectrum Mechanical Keyboard
 046d,Logitech,c32b,G910 Orion Spark Mechanical Keyboard
 046d,Logitech,c24c,G400s Gaming Mouse
