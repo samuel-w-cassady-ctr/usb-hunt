@@ -78,6 +78,7 @@ VID,Vendor,PID,Product
 1038,SteelSeries,183c,ApS Rival 5 Gaming Mouse
 1038,SteelSeries,12aa,Arctis 5 Gaming Headset
 10d6,Generic,4801,G06-BT(Bluetooth Headset)
+1532,Razer,9302, USB Dongle Transceiver
 1532,Razer,0037,DeathAdder 2013 Gaming Mouse
 1532,Razer,00b8,Viper V3 HyperSpeed Mouse
 1532,Razer,003e,Naga Epic Chroma Gaming Mouse
