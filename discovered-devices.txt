@@ -184,3 +184,5 @@ VID,Vendor,PID,Product
 25a7,Areson,fa23,Bluetooth Unifying Receiver
 25a7,Areson,fa67,Bluetooth Unifying Receiver
 5943,Jeecoo,3130,M20 Bluetooth
+045E,Microsoft,0B12,Xbox Controller
+03F0,HP Inc.,A407,Wireless Optical Comfort Mouse
