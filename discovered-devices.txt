@@ -1,4 +1,5 @@
 VID,Vendor,PID,Product
+045e,Microsoft,07b2,2.4GHz Wireless Receiver
 04d9,Holtek,a09f,E-Signal LUOM G10 Mechanical Gaming Mouse
 045e,Microsoft,00e1,Wireless Laser Mouse 6000 Receiver
 045e,Microsoft,0745,Microsoft Nano Transceiver
@@ -47,6 +48,7 @@ VID,Vendor,PID,Product
 04e8,Samsung,6860,Samsung Galaxy
 05ac,Apple Inc.,0503,Watch Magnetic Charger
 05ac,Apple Inc.,1018,USB HUB
+05ac,Apple Inc.,1017,USB HUB
 05ac,Apple Inc.,12a8,iPhone
 05ac,Apple Inc.,12ab,iPad
 05ac,Apple Inc.,1393,AirPods Case
@@ -55,11 +57,15 @@ VID,Vendor,PID,Product
 05ac,Apple Inc.,1668,Macbook
 05ac,Apple Inc.,024f,Aluminum Keyboard
 05ac,Apple Inc.,1392,Apple Watch Charger
-05ac,Apple Inc.,110b,USB-C to 3.5MM Adapter
+05ac,Apple Inc.,110b,Earpods/Apple Accessory
+05ac,Apple Inc.,110a,Earpods/Apple Accessory
 062a,Mosart,4102,Bluetooth Unifying Receiver
 062a,Mosart,4106,Bluetooth Unifying Receiver
+062a,Mosart,261b,Bluetooth Unifying Receiver
 0a12,Generic,1243,iHome iBN27(Bluetooth Speaker)
 0C45,Holtek,5004,Redragon Mitra RGB
+091e,Garmin,4f42,Fenix Watch
+0951,HyperX,16a4,Gaming Headset
 0e6a,Megawin,02c0,Defender Gaming Keyboard
 1038,SteelSeries,1282,GameDac Gaming Audio/Headset
 1038,SteelSeries,12aa,Arctis 5 RGB Gaming Audio/Headset
@@ -180,6 +186,7 @@ VID,Vendor,PID,Product
 1b1c,Corsair,1b70,M55 RGB Pro Gaming Mouse
 1b1c,Corsair,1b7f,DarkCore RGB Pro Gaming Mouse
 1ea7,Sharkoon,0064,2.4GHz Wireless Rechargeable Vertical Mouse 
+1ea7,Sharkoon,0066,Edge Mini Gaming Keyboard 
 248a,Maxxter,8367,Maxxter Telink Wireless Receiver
 2516,CoolerMaster,0011,Storm Quick Fire TK 6Keys 
 413C,Dell,301B,Bluetooth Unifying Receiver
