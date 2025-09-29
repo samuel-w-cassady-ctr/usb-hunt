@@ -59,6 +59,7 @@ VID,Vendor,PID,Product
 05ac,Apple Inc.,1392,Apple Watch Charger
 05ac,Apple Inc.,110b,Earpods/Apple Accessory
 05ac,Apple Inc.,110a,Earpods/Apple Accessory
+05ac,Apple Inc.,1463,HDMI Adapter
 062a,Mosart,4102,Bluetooth Unifying Receiver
 062a,Mosart,4106,Bluetooth Unifying Receiver
 062a,Mosart,261b,Bluetooth Unifying Receiver
