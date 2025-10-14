@@ -8,6 +8,7 @@ VID,Vendor,PID,Product
 046d,Logitech,c09d,G102 Lightsync
 046d,Logitech,c52b,Bluetooth Unifying Receiver
 046d,Logitech,c534,Bluetooth Unifying Receiver
+046d,Logitech,c538,Bluetooth Unifying Receiver
 046d,Logitech,c539,Lightspeed Wireless Receiver
 046d,Logitech,c532,Bluetooth Unifying Receiver
 046d,Logitech,b305,Bluetooth Mini Receiver
@@ -88,6 +89,7 @@ VID,Vendor,PID,Product
 1038,SteelSeries,183c,ApS Rival 5 Gaming Mouse
 1038,SteelSeries,12aa,Arctis 5 Gaming Headset
 10d6,Generic,4801,G06-BT(Bluetooth Headset)
+1532,Razer,0072,Mamba 2018 (Wireless Keyboard)
 1532,Razer,9302, USB Dongle Transceiver
 1532,Razer,0037,DeathAdder 2013 Gaming Mouse
 1532,Razer,00b8,Viper V3 HyperSpeed Mouse
