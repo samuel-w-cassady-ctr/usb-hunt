@@ -6,6 +6,7 @@ VID,Vendor,PID,Product
 046a,Cherry,0079,MX Board 3.0S FL RGB
 046d,Logitech,0ad5,Yeti Orb
 046d,Logitech,c09d,G102 Lightsync
+046d,Logitech,c52a,Bluetooth Unifying Receiver
 046d,Logitech,c52b,Bluetooth Unifying Receiver
 046d,Logitech,c534,Bluetooth Unifying Receiver
 046d,Logitech,c538,Bluetooth Unifying Receiver
