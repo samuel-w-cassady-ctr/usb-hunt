@@ -9,7 +9,6 @@ VID,Vendor,PID,Product
 046d,Logitech,c52a,Bluetooth Unifying Receiver
 046d,Logitech,c52b,Bluetooth Unifying Receiver
 046d,Logitech,c534,Bluetooth Unifying Receiver
-046d,Logitech,c538,Bluetooth Unifying Receiver
 046d,Logitech,c539,Lightspeed Wireless Receiver
 046d,Logitech,c532,Bluetooth Unifying Receiver
 046d,Logitech,b305,Bluetooth Mini Receiver
