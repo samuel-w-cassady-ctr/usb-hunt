@@ -1,6 +1,5 @@
 VID,Vendor,PID,Product
 045e,Microsoft,07b2,2.4GHz Wireless Receiver
-04d9,Holtek,a09f,E-Signal LUOM G10 Mechanical Gaming Mouse
 045e,Microsoft,00e1,Wireless Laser Mouse 6000 Receiver
 045e,Microsoft,0745,Microsoft Nano Transceiver
 046a,Cherry,0079,MX Board 3.0S FL RGB
