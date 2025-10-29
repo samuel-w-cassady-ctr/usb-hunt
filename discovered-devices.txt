@@ -83,8 +83,8 @@ VID,Vendor,PID,Product
 1038,SteelSeries,1724,Rival 600 Gaming Mouse
 1038,SteelSeries,1824,Rival 3 - Gaming Mouse
 1038,SteelSeries,182c,Prime+ Gaming Mouse
-1038,SteelSeries,1836,Aerox 3 Wireless Gaming Mouse
-1038,SteelSeries,1838,Aerox 3 Gaming Mouse
+1038,SteelSeries,1836,Aerox 3 Gaming Mouse
+1038,SteelSeries,1838,Aerox 3 Wireless Gaming Mouse
 1038,SteelSeries,1729,Rival 110 Gaming Mouse
 1038,SteelSeries,184c,ApS Rival 3 Gaming Mouse
 1038,SteelSeries,183c,ApS Rival 5 Gaming Mouse
