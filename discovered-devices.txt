@@ -76,7 +76,7 @@ VID,Vendor,PID,Product
 1038,SteelSeries,1361,Sensei Gaming Mouse
 1038,SteelSeries,160e,Apex 100 Gaming Keyboard
 1038,SteelSeries,1610,ApS Apex Pro Gaming Keyboard
-1038,SteelSeries,161a,ApS Apex 3 Gaming Mouse
+1038,SteelSeries,161a,ApS Apex 3 Gaming Keyboard
 1038,SteelSeries,1622,Apex TKL Gaming Keyboard
 1038,SteelSeries,1710,Rival 300 Gaming Mouse
 1038,SteelSeries,1720,ApS Gaming Mouse
@@ -84,7 +84,7 @@ VID,Vendor,PID,Product
 1038,SteelSeries,1824,Rival 3 - Gaming Mouse
 1038,SteelSeries,182c,Prime+ Gaming Mouse
 1038,SteelSeries,1836,Aerox 3 Wireless Gaming Mouse
-1038,SteelSeries,1838,Aerox 3 - Wireless Gaming Mouse
+1038,SteelSeries,1838,Aerox 3 Gaming Mouse
 1038,SteelSeries,1729,Rival 110 Gaming Mouse
 1038,SteelSeries,184c,ApS Rival 3 Gaming Mouse
 1038,SteelSeries,183c,ApS Rival 5 Gaming Mouse
