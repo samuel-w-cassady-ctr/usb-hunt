@@ -90,6 +90,7 @@ VID,Vendor,PID,Product
 1038,SteelSeries,183c,ApS Rival 5 Gaming Mouse
 1038,SteelSeries,12aa,Arctis 5 Gaming Headset
 10d6,Generic,4801,G06-BT(Bluetooth Headset)
+1532,Razer,0046,Mamba Tournament Edition Gaming Mouse
 1532,Razer,0072,Mamba 2018 (Wireless Keyboard)
 1532,Razer,9302, USB Dongle Transceiver
 1532,Razer,0037,DeathAdder 2013 Gaming Mouse
@@ -164,6 +165,7 @@ VID,Vendor,PID,Product
 1b1c,Corsair,1b93,Katar Pro Gaming Mouse
 1b1c,Corsair,1ba4,K55 RGB Pro Gaming Keyboard
 1b1c,Corsair,1b5e,Harpoon Wireless Gaming Mouse
+1b1c,Corsair,1b94,Katar Pro Wireless
 1b1c,Corsair,1b2d,K95 RGB Platinum Gaming Keyboard
 1b1c,Corsair,1b2e,M65 Pro RGB Gaming Mouse
 1b1c,Corsair,1b1c,M65 Pro RGB Gaming Mouse
