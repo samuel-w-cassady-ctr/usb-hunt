@@ -4,6 +4,7 @@ VID,Vendor,PID,Product
 045e,Microsoft,0745,Microsoft Nano Transceiver
 046a,Cherry,0079,MX Board 3.0S FL RGB
 046d,Logitech,0ad5,Yeti Orb
+046d,Logitech,c088,G Pro Gaming Mouse
 046d,Logitech,c53a,Lightspeed Receiver
 046d,Logitech,C343,G915 TKL
 046d,Logitech,c09d,G102 Lightsync
